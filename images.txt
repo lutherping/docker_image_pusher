@@ -2,3 +2,4 @@ wazuh
 elasticsearc
 kibana
 nginx
+
