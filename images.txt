@@ -1,4 +1,2 @@
-elasticsearc
-kibana
-nginx
+awvs:latest
 
