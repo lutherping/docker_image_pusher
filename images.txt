@@ -1,2 +1,2 @@
-awvs:latest
+lutherlyp/range:pikachu
 
