@@ -1,2 +1,3 @@
-lutherlyp/range:pikachu
+lutherlyp/range:sqli-libs-latest
+lutherlyp/range:dvwa
 
