@@ -1,4 +1,2 @@
-lutherlyp/range:sqli-libs-latest
-lutherlyp/range:dvwa
-lutherlyp/range:pikachu
+apache/hadoop
 
