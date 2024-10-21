@@ -5,4 +5,4 @@ chaitin/safeline-mario
 chaitin/safeline-tengine
 chaitin/safeline-mgt
 chaitin/safeline-detector
-chaitin/safeline-postgres
+chaitin/safeline-postgres:15.2
