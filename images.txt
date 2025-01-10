@@ -1,8 +1,1 @@
-chaitin/safeline-luigi
-chaitin/safeline-chaos
-chaitin/safeline-bridge
-chaitin/safeline-mario
-chaitin/safeline-tengine
-chaitin/safeline-mgt
-chaitin/safeline-detector
-chaitin/safeline-postgres:15.2
+rustdesk/rustdesk-server
